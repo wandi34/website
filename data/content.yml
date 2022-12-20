@@ -39,13 +39,13 @@ experience:
 
     - name: Web Developer
       company: adorsys GmbH & Co.KG
-      duration: '2006-Current'
+      duration: '2016-Current'
       content: Analyzing customers need and creating customized web applications
 
     - name: Backend Developer
       company: adorsys GmbH & Co.KG
-      duration: '2006-Current'
-      content: Creating full performance web APIs in Spring Boot or Node.js
+      duration: '2016-Current'
+      content: Creating high performance web APIs in Spring Boot or Node.js
 
     - name: Software Architect
       company: adorsys GmbH & Co.KG
@@ -84,7 +84,7 @@ skill:
       percentage: '63%'
 
     - name: 'Blockchain'
-      percentage: '65%'
+      percentage: '85%'
 
     - name: 'Guitar'
       percentage: '40%'

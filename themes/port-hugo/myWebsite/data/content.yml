@@ -1,0 +1,124 @@
+########################## hero area ##########################
+hero:
+  title: "I'm Andreas Winter"
+
+  # animated text loop
+  occupations:
+    - 'Web Developer'
+    - 'Backend Developer'
+    - 'Software Architect'
+    - 'Blockchain Technical Lead'
+    - 'Guitar Hero'
+
+  # hero background image
+  bg_image: 'images/background.jpg'
+  # optional mobile breakpoint background
+  mobile_bg_image: 'images/gus_small.jpg'
+
+########################### About ##################################
+about:
+  enable: true
+  image: 'images/profile.png'
+  title: 'THIS IS ME'
+  content: Hi, thank you for taking a look around my site. If you have any questions feel free to reach out on [LinkedIn, Github, or by email](#contact)!
+  button:
+    enable: true
+    label: 'DOWNLOAD MY RESUME'
+    link: #
+    icon: 'fa-download'
+
+###########################3 Experience ##############################
+experience:
+  enable: true
+  title: 'EXPERIENCE'
+  experience_list:
+    - name: Enterprise Network Engineer
+      company: Fritsch GmbH
+      duration: '2009-2013'
+      content: Optimizing the network speed and creating a virtual LAN
+
+    - name: Web Developer
+      company: adorsys GmbH & Co.KG
+      duration: '2016-Current'
+      content: Analyzing customers need and creating customized web applications
+
+    - name: Backend Developer
+      company: adorsys GmbH & Co.KG
+      duration: '2016-Current'
+      content: Creating high performance web APIs in Spring Boot or Node.js
+
+    - name: Software Architect
+      company: adorsys GmbH & Co.KG
+      duration: '2019-Current'
+      content: Gathering customers needs, analyzing existing applications and improving software architecture
+
+    - name: Blockchain Technical Lead
+      company: adorsys GmbH & Co.KG
+      duration: '2021-Current'
+      content: Sharing knowledge in blockchain and building future-proof applications with Smart Contracts, NFTs, Web3
+
+    - name: Guitar Hero
+      company: None
+      duration: '2012-Current'
+      content: I love to play the guitar. Punk, Rock, Blues
+
+############################### Skill #################################
+skill:
+  enable: true
+  title: 'SOME SKILLS'
+  showpercent: false
+  skill_list:
+    - name: 'Angular'
+      percentage: '95%'
+
+    - name: 'Vue.js'
+      percentage: '75%'
+
+    - name: 'Flutter'
+      percentage: '65%'
+
+    - name: 'Spring Boot'
+      percentage: '95%'
+
+    - name: 'Software Architecture'
+      percentage: '63%'
+
+    - name: 'Blockchain'
+      percentage: '85%'
+
+    - name: 'Guitar'
+      percentage: '40%'
+
+######################### funfacts #############################3
+funfacts:
+  enable: true
+  funfacts_list:
+    - name: 'CUPS PER DAY'
+      image: 'images/icons/coffee.png'
+      count: '2'
+
+    - name: 'customer projects finished'
+      image: 'images/icons/web-development.png'
+      count: '16'
+
+    - name: 'BOARDGAMES'
+      image: 'images/icons/happy.png'
+      count: '17'
+
+############################# portfolio ################################
+portfolio:
+  enable: true
+  title: 'MY WORK'
+  portfolio_list:
+    - name: Customer projects
+      image: 'images/portfolio/customer.jpg'
+      description: A lot of customer projects with a big variety of use cases. Finance, APIs, Tax,...
+
+    - name: Frugalist
+      image: 'images/portfolio/frugalist_text.png'
+      description: Mobile friendly web application for calculating monthly costs of living and possible starts of pension based on a savings rate. Built with Vue.js, Express, Traefik
+
+    - name: Nürnberger Abfallapp
+      image: 'images/portfolio/abfallapp.png'
+      description: Mobile app written in flutter. You can subscribe on a specific garbage collector route to get notifications when you have to put out your garbage.
+
