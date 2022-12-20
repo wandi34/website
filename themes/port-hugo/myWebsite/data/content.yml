@@ -22,7 +22,7 @@ about:
   title: 'THIS IS ME'
   content: Hi, thank you for taking a look around my site. If you have any questions feel free to reach out on [LinkedIn, Github, Mastodon or by email](#contact)!
   button:
-    enable: true
+    enable: false
     label: 'DOWNLOAD MY RESUME'
     link: #
     icon: 'fa-download'
