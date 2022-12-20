@@ -77,6 +77,10 @@ icon = "fab fa-linkedin"
 link = "https://www.linkedin.com/in/andreas-winter-145129147/"
 
 [[params.social]]
+icon = "fab fa-mastodon"
+link = "https://troet.cafe/@awandi34"
+
+[[params.social]]
 icon = "fas fa-envelope"
 link = "mailto:mail@andreas-winter.eu"
 
